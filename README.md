@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Innovator+in+Environmental+Tech;iOS+developer;AR\VR+and+UI\UX+Developer;Arduino+Explorer;Leading+Innovation+at+Developers+Club&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Innovator+in+Environmental+Tech;iOS+developer;Arduino+Explorer;AR\VR+and+UI\UX+Developer;Leading+Developers+Club&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"></h3>
 
 - 🌱 I’m currently learning **React**
 
