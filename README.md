@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;Innovator+in+Environmental+Tech;iOS+developer;Arduino+Explorer;AR%2FVR+and+UI%2FUX+Developer;Leading+Developers+Club&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG"></h3>
 
-Here you can easily customize your Typing SVG with a live preview.
-
-<https://readme-typing-svg.demolab.com/demo/>
-
-[![Demo Site](https://media.tenor.com/images/5f9d9a0aa31e8dfbd9f61a926af90648/tenor.gif "Demo Site")](https://readme-typing-svg.demolab.com/demo/)
-Here you can easily view your GIF with a live preview.
-
-
 
 
 - 🌱 I’m currently learning **Swift**
