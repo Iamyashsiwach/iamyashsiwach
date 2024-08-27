@@ -3,7 +3,9 @@
 
 Here you can easily customize your GIF with a live preview.
 
-[![Demo Site](https://i.gifer.com/Ivl4.gif "Demo Site")](https://i.gifer.com/Ivl4.gif)
+[![Demo Site](https://i.gifer.com/Ivl4.gif "Demo Site")](https://your-custom-gif-link.com)
+
+You can customize your GIF at: [Custom GIF Editor](https://ezgif.com/)
 
 - 🌱 I’m currently learning **Swift**
 
