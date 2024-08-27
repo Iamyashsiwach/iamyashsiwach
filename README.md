@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
-<h3 align="center">Emerging Technologist | AR/VR & UI/UX Developer | Bridging Innovation with Community Engagement</h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Innovator+in+Environmental+Tech;iOS+developer;AR\VR+&+UI\UX+Developer;Arduino+Explorer;Leading+Innovation+at+Developers+Club&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"></h3>
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **Email: iamyashsiwach@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11HVIrHdgOi4sHMH37rfwH-bOv0It6Mvt/view?usp=sharing](https://drive.google.com/file/d/11HVIrHdgOi4sHMH37rfwH-bOv0It6Mvt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11HVIrHdgOi4sHMH37rfwH-bOv0It6Mvt/view?usp=sharing)
 
 - ⚡ Fun fact **Chill before the thrill, but unstoppable when I will.**
 
