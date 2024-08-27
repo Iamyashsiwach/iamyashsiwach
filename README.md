@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;Innovator+in+Environmental+Tech;iOS+developer;Arduino+Explorer;AR%2FVR+and+UI%2FUX+Developer;Leading+Developers+Club&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG"></h3>
 
-
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV1eXF4NTVpcm94ZDltdmo5d29yM3U3Y3Q5dXp6MGliaGthN3R6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif)
 
 - 🌱 I’m currently learning **Swift**
 
