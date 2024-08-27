@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0033CC&background=FFFFFF&width=435&lines=Front-End+Developer;Innovator+in+Environmental+Tech;iOS+developer;Arduino+Explorer;AR%2FVR+and+UI%2FUX+Developer;Leading+Developers+Club&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" /></a></h3>
 
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV1eXF4NTVpcm94ZDltdmo5d29yM3U3Y3Q5dXp6MGliaGthN3R6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif)
-
 - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **Email: iamyashsiwach@gmail.com**
@@ -36,3 +34,6 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
+
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV1eXF4NTVpcm94ZDltdmo5d29yM3U3Y3Q5dXp6MGliaGthN3R6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif)
+
