@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;Innovator+in+Environmental+Tech;iOS+developer;Arduino+Explorer;AR%2FVR+and+UI%2FUX+Developer;Leading+Developers+Club&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG"></h3>
 
-Here you can easily customize your GIF with a live preview.
+Here you can easily customize your Typing SVG with a live preview.
 
-[![Demo Site](https://i.gifer.com/Ivl4.gif "Demo Site")](https://i.gifer.com/Ivl4.gif)
+<https://readme-typing-svg.demolab.com/demo/>
 
-Customize your GIF at: [GIF Editor](https://ezgif.com/)
+[![Demo Site](https://user-images.githubusercontent.com/20955511/183703055-42ec8754-d84c-414f-8132-a02974224aa1.gif "Demo Site")](https://readme-typing-svg.demolab.com/demo/)
 
-You can customize your GIF at: [Custom GIF Editor](https://ezgif.com/)
 
 - 🌱 I’m currently learning **Swift**
 
