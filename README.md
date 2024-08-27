@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;Innovator+in+Environmental+Tech;iOS+developer;Arduino+Explorer;AR%2FVR+and+UI%2FUX+Developer;Leading+Developers+Club)](https://git.io/typing-svg)</h3>
+<h3 align="center"><img src="href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;Innovator+in+Environmental+Tech;iOS+developer;Arduino+Explorer;AR%2FVR+and+UI%2FUX+Developer;Leading+Developers+Club" alt="Typing SVG"></h3>
 
 <https://i.gifer.com/Ivl4.gif>
 
