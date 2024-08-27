@@ -10,7 +10,6 @@ Here you can easily view your GIF with a live preview.
 
 [![Demo Site](https://media.tenor.com/images/5f9d9a0aa31e8dfbd9f61a926af90648/tenor.gif "Demo Site")](https://tenor.com/bQ1xT.gif)
 
-View and customize your GIF at: [Tenor](https://tenor.com/bQ1xT.gif)
 
 
 - 🌱 I’m currently learning **Swift**
