@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Email: iamyashsiwach@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11HVIrHdgOi4sHMH37rfwH-bOv0It6Mvt/view?usp=sharing)
+- 📄 Know about my experiences [Resume]((https://iamyashsiwach-portfolio.vercel.app/))
 
 - ⚡ Fun fact **Chill before the thrill, but unstoppable when I will.**
 
