@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Siwach</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0033CC&background=FFFFFF&width=435&lines=Front-End+Developer;Innovator+in+Environmental+Tech;iOS+developer;Arduino+Explorer;AR%2FVR+and+UI%2FUX+Developer;Leading+Developers+Club&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" /></a></h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **Email: iamyashsiwach@gmail.com**
 
