@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Email: iamyashsiwach@gmail.com**
 
-- 📄 Portfolio <a href="https://iamyashsiwach-portfolio.vercel.app"> check out </a>
+- 📄 Portfolio <a href="https://yashsiwach.space"> check out </a>
 
 - ⚡ Fun fact **Chill before the thrill, but unstoppable when I will.**
 
